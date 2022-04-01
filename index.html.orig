@@ -2,7 +2,11 @@
 <html>
 
 <head>
-     <title>HTML Application !!! -- feature1</title>
+<<<<<<< HEAD
+     <title>HTML Application !!! -- feature1 </title>
+=======
+     <title>HTML Application !!! --feature2</title>
+>>>>>>> feature2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
